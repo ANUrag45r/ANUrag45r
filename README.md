@@ -1,99 +1,87 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=ANURAG%20SINHA&fontSize=55&fontColor=00FFFF&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=16"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00FF00&center=true&vCenter=true&width=700&lines=Hi+I'm+Anurag;Software+Developer;AI+Engineer;Competitive+Programmer" alt="Typing SVG" />
 
-<br/>
+### 🎓 B.Tech CSE @ NIT Patna | 🤖 AI/ML Enthusiast | 💻 Full-Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00FFEA&center=true&vCenter=true&width=800&lines=Initializing+Anurag.exe...;Loading+AI+Engineer+Module...;Compiling+Full+Stack+Skills...;System+Ready.+Let's+Build!"/>
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-sinha-598310299)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF00FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-git-main-anurag26.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-sinha-598310299)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-git-main-anurag26.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anurag_sinha_hu/)
-[![Gmail](https://img.shields.io/badge/Gmail-00C48C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragsinha067@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragsinha067@email.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ANUrag45r&color=blueviolet&style=flat-square)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=25&color=gradient"/>
+---
 
-## <img src="https://media.giphy.com/media/iY9O4wKMKfmJ4dz2Qz/giphy.gif" width="28"/> whoami
+### 👋 About Me
 
-```bash
-┌──(anurag㉿nitp)-[~/system]
-└─$ cat profile.json
-{
-  "name"      : "Anurag Sinha",
-  "role"      : "AI Engineer / Full Stack Developer",
-  "college"   : "NIT Patna",
-  "branch"    : "Computer Science (2023-2027)",
-  "focus"     : ["AI/ML", "Full Stack Dev", "DSA", "Open Source"],
-  "status"    : "🟢 Actively shipping code"
-}
-```
+- 🔭 Currently building **AI-powered** and **full-stack** projects, including a dual-modal deepfake detection system and a real-time chat application
+- 🌱 Sharpening my Data Structures & Algorithms skills, focused on advanced problem-solving
+- 💡 Interested in LLM-based agentic AI workflows and applied machine learning
+- 🎯 Actively preparing for Software Engineering placements
+- ⚡ Fun fact: I enjoy blending technical writing with creative interests like ghazal poetry
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=25&color=gradient"/>
+---
 
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"/> Tech arsenal
+### 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,react,nodejs,express,mongodb,mysql,docker,git,github,linux,vscode&theme=dark&perline=8"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<p align="center">
-<img src="https://img.shields.io/badge/-Machine%20Learning-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/-XLM--RoBERTa-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
-<img src="https://img.shields.io/badge/-Socket.io-0D1117?style=flat-square&logo=socketdotio&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=38B2AC"/>
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,mongodb,docker,git,github" alt="Skill Icons"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=25&color=gradient"/>
+---
 
-## <img src="https://media.giphy.com/media/L3zEfL0Qw0lKUmS4eN/giphy.gif" width="28"/> Live stats
-
-<p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ANUrag45r&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&border_color=00FFEA&title_color=00FFEA&icon_color=FF00FF&text_color=ffffff&rank_icon=github"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANUrag45r&layout=compact&theme=chartreuse-dark&bg_color=0D1117&border_color=00FFEA&title_color=00FFEA&text_color=ffffff"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=ANUrag45r&theme=nightowl&background=0D1117&border=00FFEA&ring=FF00FF&fire=00FFEA&currStreakLabel=00FFEA"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANUrag45r&theme=react-dark&bg_color=0D1117&color=00FFEA&line=FF00FF&point=ffffff&area=true&hide_border=true"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=25&color=gradient"/>
-
-## <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="28"/> Trophy cabinet
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ANUrag45r&theme=algolia&row=1&column=6&margin-w=8&no-bg=true&no-frame=true"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=25&color=gradient"/>
-
-## <img src="https://media.giphy.com/media/Q2GjNK9dstGY0/giphy.gif" width="28"/> LeetCode terminal
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/anurag_sinha_hu?theme=dark&font=Fira%20Code&ext=contest"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=25&color=gradient"/>
+### 📊 GitHub Stats
 
 <div align="center">
 
-### System log
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ANUrag45r&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANUrag45r&layout=compact&theme=tokyonight" alt="Top Languages" />
 
-```bash
-echo "Code. Learn. Build. Repeat."
-status: online
-uptime: since 2023
-```
+<img src="https://streak-stats.demolab.com/?user=ANUrag45r&theme=tokyonight" alt="GitHub Streak" />
 
-<img src="https://komarev.com/ghpvc/?username=ANUrag45r&label=PROFILE%20VIEWS&color=00FFEA&style=for-the-badge&labelColor=000000"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANUrag45r&theme=tokyo-night" alt="Activity Graph" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&animation=twinkling"/>
+</div>
 
+---
+
+### 🏆 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/anurag_sinha_hu?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats"/>
+
+</div>
+
+---
+
+### 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anurag-sinha-598310299)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://portfolio-git-main-anurag26.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/anurag_sinha_hu/)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-red?style=for-the-badge&logo=gmail)](mailto:anuragsinha067@email.com)
+
+</div>
+
+---
+
+<div align="center">
+<i>⭐️ From <a href="https://github.com/ANUrag45r">ANUrag45r</a> — Building things, one commit at a time.</i>
 </div>
