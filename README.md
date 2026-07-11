@@ -1,28 +1,126 @@
 <div align="center">
 
-<!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Anurag%20Sinha&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=55&descSize=18" />
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Anurag Sinha
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Anurag+%F0%9F%91%8B;Building+AI+Agents+%26+LLM+Apps+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%E2%9A%A1;Always+Learning+New+Things+%F0%9F%8C%B1" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=850&lines=AI+Engineer;Full+Stack+Developer;Competitive+Programmer;Open+Source+Enthusiast;Always+Learning+Something+New!">
 
-<!-- Coding gif banner -->
-<img src="https://raw.githubusercontent.com/aambrozkiewicz/aambrozkiewicz/master/computer.gif" width="400"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=120&section=header"/>
 
 </div>
 
+---
+
+# 💫 About Me
+
+```bash
+> Name      : Anurag Sinha
+> Role      : AI Engineer
+> College   : NIT Patna
+> Branch    : Computer Science
+> Interests : AI • Full Stack • DSA • Open Source
+> Status    : Building Awesome Projects 🚀
+```
+
+---
+
+# 🌐 Connect
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ANUrag45r&label=Visitors&color=0e75b6&style=for-the-badge" />
+
+<a href="https://www.linkedin.com/in/anurag-sinha-598310299">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://portfolio-git-main-anurag26.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://leetcode.com/u/anurag_sinha_hu/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="mailto:anuragsinha067@email.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 💻 Tech Stack
 
-```yaml
-name: Anurag Sinha
-role: AI Engineer & Full Stack Developer
-education: B.Tech CSE Student
-currently_learning: [LLMs, AI Agents, System Design]
-passion: [Competitive Programming, Building cool stuff]
-fun_fact: "I debug with print statements and I'm not sorry"
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,react,nodejs,express,mongodb,mysql,docker,git,github,linux,vscode&perline=8"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ANUrag45r&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANUrag45r&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=ANUrag45r&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANUrag45r&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ANUrag45r&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+# 💻 LeetCode
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/anurag_sinha_hu?theme=dark&font=Baloo&ext=contest"/>
+
+</p>
+
+---
+
+# 👀 Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ANUrag45r&label=Profile+Views&color=00ff00&style=for-the-badge"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Fun Fact
+
+> "Code. Learn. Build. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=120&section=footer"/>
+
+</div>
