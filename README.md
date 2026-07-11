@@ -1,95 +1,28 @@
-<h1 align="center">
-  Hi 👋, I'm Anurag Sinha
-</h1>
+<div align="center">
 
-<h3 align="center">
-AI Engineer | Full Stack Developer | Competitive Programmer
-</h3>
+<!-- Animated wave header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Anurag%20Sinha&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=55&descSize=18" />
+
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Anurag+%F0%9F%91%8B;Building+AI+Agents+%26+LLM+Apps+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%E2%9A%A1;Always+Learning+New+Things+%F0%9F%8C%B1" />
+
+<!-- Coding gif banner -->
+<img src="https://raw.githubusercontent.com/aambrozkiewicz/aambrozkiewicz/master/computer.gif" width="400"/>
+
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00FF00&center=true&vCenter=true&width=700&lines=Hi+I'm+Anurag;Software+Developer;AI+Engineer;Competitive+Programmer;Always+Learning+New+Things" />
+  <img src="https://komarev.com/ghpvc/?username=ANUrag45r&label=Visitors&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE Student
-- 💻 Full Stack Developer
-- 🤖 AI Engineer
-- 🌱 Currently learning LLMs & AI Agents
-- ⚡ Competitive Programmer
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anurag-sinha-598310299)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://portfolio-git-main-anurag26.vercel.app/)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/anurag_sinha_hu/)
-
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:anuragsinha067@email.com)
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,mongodb,docker,git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ANUrag45r&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANUrag45r&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=ANUrag45r&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANUrag45r&theme=tokyo-night" />
-</p>
-
----
-
-## 🏆 LeetCode
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/anurag_sinha_hu?theme=dark&font=Baloo&ext=contest" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ANUrag45r&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+```yaml
+name: Anurag Sinha
+role: AI Engineer & Full Stack Developer
+education: B.Tech CSE Student
+currently_learning: [LLMs, AI Agents, System Design]
+passion: [Competitive Programming, Building cool stuff]
+fun_fact: "I debug with print statements and I'm not sorry"
